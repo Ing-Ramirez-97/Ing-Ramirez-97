@@ -28,5 +28,5 @@
 
 ### 📫 Conéctate conmigo
 
-* **LinkedIn:** Carlos David Ramírez https://www.linkedin.com/in/tu-nombre-de-usuario/)](https://www.linkedin.com/in/carlos-david-ram%C3%ADrez-b452582b3/
+* **LinkedIn:** Carlos David Ramírez www.linkedin.com/in/carlos-david-ramírez-b452582b3
 * **Email:** `automatizando.cr@gmail.com`
